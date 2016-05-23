@@ -1,0 +1,26 @@
+ class zoo{ 
+ //In Main.java 
+ public static void main(String[] args){ 
+  //make animals and add them to an array 
+   System.out.println ("all_sounds(my_zoo)"); 
+ } 
+
+ 
+ zoo = {"Dog", "Cat", "Horse", "Elephant", "Zebra", "Sea otter", "Lizard"} 
+ 
+ 
+ public static void all_sounds(Animal[] my_zoo){ 
+   // output... 
+   // The lion goes roar 
+   // The cat goes meow 
+  Animal [] zoo = new Animal[5];
+  zoo [0] = new Animal("Lion","roar");
+ } 
+
+
+
+ //In Animal.java 
+
+ 
+   public Animal(String name, String sound){ 
+ } 
